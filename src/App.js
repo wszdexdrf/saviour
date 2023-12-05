@@ -7,7 +7,7 @@ import Downloads from "./pages/Downloads";
 import "./App.css";
 import theme from "./theme";
 import { ThemeProvider } from "@mui/material/styles";
-import background from "./assets/background.png";
+import background from "./assets/background.jpg";
 
 function App() {
     return (
