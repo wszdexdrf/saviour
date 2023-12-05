@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  padding: 10px;
+  border-bottom: 3px solid;
+  border-color: #E95420;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  height: 60px;
+  width: 100vw;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+}
+
+.links {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+  width: 30%;
+}
+
+.banner-image {
+  padding-left: 20px;
+}
